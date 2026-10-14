@@ -52,3 +52,8 @@ Mysuru Marga is built with a decoupled, service-oriented architecture designed t
   "timestamp_utc": 1776214800000
 }
 ```
+
+
+## 3. Security & Telemetry Authentication
+- Mutual TLS (mTLS) for bus GPS devices.
+- HMAC-SHA256 request signatures for data integrity.
