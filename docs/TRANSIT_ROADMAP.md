@@ -26,3 +26,5 @@
 - docs: document emergency SOS and women passenger safety protocols
 
 - docs: document multilingual transit display standards (Kannada and English)
+
+- docs: document clean energy and electric bus fleet integration
