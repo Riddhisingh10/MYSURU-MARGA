@@ -166,3 +166,5 @@ export const RouteDirectory: React.FC<RouteDirectoryProps> = ({
     </div>
   );
 };
+
+// Real-time route filtering across name, number, and stops
