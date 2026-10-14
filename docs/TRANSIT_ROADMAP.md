@@ -68,3 +68,5 @@
 - docs: document Vidyaranyapuram depot fleet maintenance schedules
 
 - docs: document Saraswathipuram university campus student concession passes
+
+- docs: document Ballal Circle historical landmark transit signage
