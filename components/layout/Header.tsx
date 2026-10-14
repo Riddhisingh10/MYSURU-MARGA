@@ -177,3 +177,5 @@ export const Header: React.FC<HeaderProps> = ({
     </header>
   );
 };
+
+// Accessible aria-labels for mobile drawer navigation
