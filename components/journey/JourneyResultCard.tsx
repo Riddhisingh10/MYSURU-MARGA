@@ -204,3 +204,5 @@ export const JourneyResultCard: React.FC<JourneyResultCardProps> = ({
     </div>
   );
 };
+
+// High-contrast badge for direct vs transfer journeys
