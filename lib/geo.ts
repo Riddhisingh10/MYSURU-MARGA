@@ -168,3 +168,8 @@ export const EARTH_RADIUS_KM = 6371;
 
 /** Average human walking speed in meters per minute */
 export const WALKING_SPEED_METERS_PER_MIN = 75;
+
+/** Checks if coordinate is within Mysuru metropolitan bounds */
+export function isWithinMysuru(coords: { lat: number; lng: number }): boolean {
+  return coords.lat >= 12.2 && coords.lat <= 12.4 && coords.lng >= 76.5 && coords.lng <= 76.8;
+}
