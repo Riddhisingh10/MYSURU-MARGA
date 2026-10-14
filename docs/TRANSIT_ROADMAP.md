@@ -74,3 +74,5 @@
 - docs: document Ramaswamy Circle central intersection lane priority
 
 - docs: document Sayyaji Rao Road pedestrian safety and bus speed limits
+
+- docs: document Irwin Road transit priority corridor improvements
