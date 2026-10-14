@@ -62,3 +62,5 @@
 - docs: document Bannimantap torchlight parade annual transit routing
 
 - docs: document Bogadi 2nd stage residential extension transit lines
+
+- docs: document J.P. Nagar Goblimara outer ring road express connections
