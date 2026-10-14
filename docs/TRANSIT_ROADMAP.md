@@ -42,3 +42,5 @@
 - docs: document GTFS and GTFS-RT public transit feed export support
 
 - docs: document transit authority dashboard specifications
+
+- docs: document driver console unit (DCU) hardware interfaces
