@@ -64,3 +64,5 @@
 - docs: document Bogadi 2nd stage residential extension transit lines
 
 - docs: document J.P. Nagar Goblimara outer ring road express connections
+
+- docs: document Vidyaranyapuram depot fleet maintenance schedules
