@@ -32,3 +32,5 @@
 - docs: document air-conditioned Volvo city service timetable distinction
 
 - docs: document night service transit availability from railway station
+
+- docs: document bus bunching detection and dynamic headway control
