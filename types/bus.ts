@@ -134,3 +134,6 @@ export type StopIdentifier = string;
 
 /** Direction indicator */
 export type RouteDirection = "UP" | "DOWN";
+
+/** Service day category */
+export type ServiceDayPattern = "DAILY" | "WEEKDAY" | "WEEKEND";
