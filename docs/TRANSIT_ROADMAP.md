@@ -20,3 +20,5 @@
 - docs: document electronic ticketing machine (ETM) integration roadmap
 
 - docs: document smart transit card and UPI payment compatibility
+
+- docs: document real-time bus occupancy load estimation metrics
