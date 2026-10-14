@@ -209,3 +209,5 @@ export class MockBusLocationService implements IBusLocationService {
 
 // Global Singleton to maintain consistent simulation state across views
 export const mockBusLocationService = new MockBusLocationService();
+
+// Smooth spline interpolation along road coordinates
