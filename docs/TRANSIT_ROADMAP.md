@@ -40,3 +40,5 @@
 - docs: document offline PWA caching strategies for low-bandwidth zones
 
 - docs: document GTFS and GTFS-RT public transit feed export support
+
+- docs: document transit authority dashboard specifications
