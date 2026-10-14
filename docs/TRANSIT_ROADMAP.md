@@ -66,3 +66,5 @@
 - docs: document J.P. Nagar Goblimara outer ring road express connections
 
 - docs: document Vidyaranyapuram depot fleet maintenance schedules
+
+- docs: document Saraswathipuram university campus student concession passes
