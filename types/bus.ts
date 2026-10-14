@@ -131,3 +131,6 @@ export interface SimulationControlState {
 
 /** Export Stop ID helper type */
 export type StopIdentifier = string;
+
+/** Direction indicator */
+export type RouteDirection = "UP" | "DOWN";
