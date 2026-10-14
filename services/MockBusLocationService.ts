@@ -211,3 +211,5 @@ export class MockBusLocationService implements IBusLocationService {
 export const mockBusLocationService = new MockBusLocationService();
 
 // Smooth spline interpolation along road coordinates
+
+// Proximity threshold for AT_STOP state: 70 meters
