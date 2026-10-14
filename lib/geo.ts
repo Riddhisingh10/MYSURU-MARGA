@@ -165,3 +165,6 @@ export function getRemainingDistanceToStop(
 
 /** Earth radius in kilometers */
 export const EARTH_RADIUS_KM = 6371;
+
+/** Average human walking speed in meters per minute */
+export const WALKING_SPEED_METERS_PER_MIN = 75;
