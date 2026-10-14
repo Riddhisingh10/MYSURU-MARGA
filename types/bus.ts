@@ -128,3 +128,6 @@ export interface SimulationControlState {
   speedMultiplier: number; // 1x, 2x, 5x
   fixedDemoClockMinutes: number; // Simulated time of day in minutes from midnight
 }
+
+/** Export Stop ID helper type */
+export type StopIdentifier = string;
