@@ -96,3 +96,5 @@
 - docs: document passenger information display system (PIDS) LED protocols
 
 - docs: document automated voice announcement (AVA) audio bilingual files
+
+- docs: document solar-powered bus shelter IoT beacon specifications
