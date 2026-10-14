@@ -52,3 +52,5 @@
 - docs: document Mysore Palace illumination weekend traffic diversions
 
 - docs: document Sri Chamarajendra Zoo tourist shuttle scheduling
+
+- docs: document Karanji Lake ecological buffer transit guidelines
