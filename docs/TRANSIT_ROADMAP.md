@@ -80,3 +80,5 @@
 - docs: document KRS Road railway station underpass clearance specifications
 
 - docs: document Lalitha Mahal Road scenic heritage transit corridor
+
+- docs: document Mysore Race Club event transit shuttle frequencies
