@@ -84,3 +84,5 @@
 - docs: document Mysore Race Club event transit shuttle frequencies
 
 - docs: document Nandi Statue hairpin bend hill bus safety protocols
+
+- docs: document Tavarekatte hill steps passenger boarding amenities
