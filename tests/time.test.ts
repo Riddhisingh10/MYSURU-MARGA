@@ -25,3 +25,5 @@ describe('Time Utilities', () => {
     expect(formatDuration(75)).toBe('1 hr 15 min');
   });
 });
+
+// Test: 12-hour AM/PM boundaries at midnight and noon
