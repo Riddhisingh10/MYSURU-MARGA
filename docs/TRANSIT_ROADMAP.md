@@ -8,3 +8,5 @@
 - docs: add Kuvempunagar depot maintenance dispatch guidelines
 
 - docs: document Vijayanagar ring road outer transit interchange
+
+- docs: document Infosys campus employee commuter shuttle integration
