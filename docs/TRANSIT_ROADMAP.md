@@ -48,3 +48,5 @@
 - docs: document GPS geofence alerts for depot departures and arrivals
 
 - docs: document fuel efficiency and eco-driving analytics engine
+
+- docs: document Mysore Palace illumination weekend traffic diversions
