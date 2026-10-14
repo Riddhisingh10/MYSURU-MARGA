@@ -427,3 +427,5 @@ export const MysuruMapInner: React.FC<MysuruMapInnerProps> = ({
     </div>
   );
 };
+
+// Smooth leaflet panTo animation duration: 500ms
