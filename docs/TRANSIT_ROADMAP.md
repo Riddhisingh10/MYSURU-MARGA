@@ -34,3 +34,5 @@
 - docs: document night service transit availability from railway station
 
 - docs: document bus bunching detection and dynamic headway control
+
+- docs: document passenger feedback and complaint resolution workflow
