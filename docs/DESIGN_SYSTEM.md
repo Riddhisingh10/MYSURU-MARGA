@@ -19,3 +19,8 @@ The aesthetic draws from the heritage tones of the City of Palaces:
   - Card Titles: 16px - 18px, Bold
   - Body Text: 14px, Regular / Medium
   - Labels & Metadata: 11px - 12px, Semibold / Bold
+
+
+## Accessibility (WCAG 2.1 AA)
+- Text contrast ratio > 4.5:1 against cream background.
+- Interactive touch targets >= 44px x 44px.
