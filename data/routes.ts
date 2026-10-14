@@ -265,3 +265,5 @@ export const MYSURU_ROUTES: BusRoute[] = [
 ];
 
 // Route 119 follows historical Maharaja procession route to Chamundi Foothills
+
+// Route 201 serves university students and Saraswathipuram residential zone
