@@ -28,3 +28,5 @@
 - docs: document multilingual transit display standards (Kannada and English)
 
 - docs: document clean energy and electric bus fleet integration
+
+- docs: document air-conditioned Volvo city service timetable distinction
