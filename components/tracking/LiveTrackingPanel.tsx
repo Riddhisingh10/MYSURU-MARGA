@@ -380,3 +380,5 @@ export const LiveTrackingPanel: React.FC<LiveTrackingPanelProps> = ({
 };
 
 // Dynamic status banner: approaching vs in_transit vs at_stop
+
+// Upcoming stops timeline passed-stop strike-through styling
