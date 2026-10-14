@@ -98,3 +98,5 @@
 - docs: document automated voice announcement (AVA) audio bilingual files
 
 - docs: document solar-powered bus shelter IoT beacon specifications
+
+- docs: document open transit data license and public API terms of service
