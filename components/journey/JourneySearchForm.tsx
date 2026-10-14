@@ -449,3 +449,5 @@ export const JourneySearchForm: React.FC<JourneySearchFormProps> = ({
     </div>
   );
 };
+
+// Keyboard navigation support for autocomplete list
