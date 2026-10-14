@@ -182,3 +182,5 @@ export const MYSURU_STOPS: BusStop[] = [
     hasShelter: true,
   },
 ];
+
+// Kannada localization verified for Mysuru city bus stops
