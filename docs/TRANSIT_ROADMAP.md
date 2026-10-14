@@ -72,3 +72,5 @@
 - docs: document Ballal Circle historical landmark transit signage
 
 - docs: document Ramaswamy Circle central intersection lane priority
+
+- docs: document Sayyaji Rao Road pedestrian safety and bus speed limits
