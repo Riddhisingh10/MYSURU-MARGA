@@ -62,3 +62,5 @@ export const Footer: React.FC = () => {
     </footer>
   );
 };
+
+// Heritage attribution and municipal mobility context
