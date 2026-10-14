@@ -184,3 +184,5 @@ export const MYSURU_STOPS: BusStop[] = [
 ];
 
 // Kannada localization verified for Mysuru city bus stops
+
+// Station shelter indicators verified against KSRTC field observations
