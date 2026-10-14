@@ -86,3 +86,5 @@
 - docs: document Nandi Statue hairpin bend hill bus safety protocols
 
 - docs: document Tavarekatte hill steps passenger boarding amenities
+
+- docs: document outer ring road rapid transit (BRT) feasibility study
