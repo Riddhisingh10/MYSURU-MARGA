@@ -109,3 +109,5 @@ export const JourneyResultsList: React.FC<JourneyResultsListProps> = ({
     </div>
   );
 };
+
+// Sorting criteria: fastest, least_walking, fewest_transfers, earliest
