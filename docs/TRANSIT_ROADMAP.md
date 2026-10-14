@@ -82,3 +82,5 @@
 - docs: document Lalitha Mahal Road scenic heritage transit corridor
 
 - docs: document Mysore Race Club event transit shuttle frequencies
+
+- docs: document Nandi Statue hairpin bend hill bus safety protocols
