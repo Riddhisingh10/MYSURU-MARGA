@@ -59,3 +59,5 @@ export const MapLegend: React.FC = () => {
     </div>
   );
 };
+
+// Collapsible state for mobile screen optimization
