@@ -18,3 +18,5 @@
 - docs: document wheelchair accessible bus shelter indicators
 
 - docs: document electronic ticketing machine (ETM) integration roadmap
+
+- docs: document smart transit card and UPI payment compatibility
