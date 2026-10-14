@@ -50,3 +50,5 @@
 - docs: document fuel efficiency and eco-driving analytics engine
 
 - docs: document Mysore Palace illumination weekend traffic diversions
+
+- docs: document Sri Chamarajendra Zoo tourist shuttle scheduling
