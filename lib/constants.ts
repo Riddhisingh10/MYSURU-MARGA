@@ -40,3 +40,6 @@ export const SIMULATION_CONFIG = {
 
 /** Official Chamundi Hill Elevation */
 export const CHAMUNDI_HILL_ELEVATION_METERS = 1062;
+
+/** Mysuru City Corporation Postal Code */
+export const MYSURU_POSTAL_CODE = "570001";
