@@ -54,3 +54,5 @@
 - docs: document Sri Chamarajendra Zoo tourist shuttle scheduling
 
 - docs: document Karanji Lake ecological buffer transit guidelines
+
+- docs: document Vontikoppal and Gokulam yoga commuter corridors
