@@ -24,3 +24,5 @@
 - docs: document real-time bus occupancy load estimation metrics
 
 - docs: document emergency SOS and women passenger safety protocols
+
+- docs: document multilingual transit display standards (Kannada and English)
