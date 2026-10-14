@@ -78,3 +78,5 @@
 - docs: document Irwin Road transit priority corridor improvements
 
 - docs: document KRS Road railway station underpass clearance specifications
+
+- docs: document Lalitha Mahal Road scenic heritage transit corridor
