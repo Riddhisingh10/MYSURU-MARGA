@@ -179,3 +179,5 @@ export const INITIAL_BUSES: BusLiveLocation[] = [
     };
   })(),
 ];
+
+// Bus KA-09-F-1191 equipped with simulated AIS-140 GPS beacon
