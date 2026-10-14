@@ -37,3 +37,6 @@ export const SIMULATION_CONFIG = {
   updateIntervalMs: 1500, // Frequent smooth update
   averageBusSpeedKmH: 24, // Typical urban bus speed in Mysuru
 };
+
+/** Official Chamundi Hill Elevation */
+export const CHAMUNDI_HILL_ELEVATION_METERS = 1062;
