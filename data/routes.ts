@@ -271,3 +271,5 @@ export const MYSURU_ROUTES: BusRoute[] = [
 // Route 303 connects commercial heart with Vijayanagar residential extensions
 
 // Route 10A connects central railway hub with Hebbal Electronics City
+
+// Route 135 provides north-south arterial bypass without transferring at CBS
