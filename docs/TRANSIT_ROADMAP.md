@@ -44,3 +44,5 @@
 - docs: document transit authority dashboard specifications
 
 - docs: document driver console unit (DCU) hardware interfaces
+
+- docs: document GPS geofence alerts for depot departures and arrivals
