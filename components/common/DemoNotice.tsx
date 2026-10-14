@@ -124,3 +124,5 @@ export const DemoNotice: React.FC = () => {
     </>
   );
 };
+
+// Dismiss state persisted in memory
