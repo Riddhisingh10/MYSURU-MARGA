@@ -56,3 +56,5 @@
 - docs: document Karanji Lake ecological buffer transit guidelines
 
 - docs: document Vontikoppal and Gokulam yoga commuter corridors
+
+- docs: document Hebbal industrial employee shift-time feeder buses
