@@ -22,3 +22,5 @@
 - docs: document smart transit card and UPI payment compatibility
 
 - docs: document real-time bus occupancy load estimation metrics
+
+- docs: document emergency SOS and women passenger safety protocols
