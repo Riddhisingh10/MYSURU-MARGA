@@ -24,3 +24,5 @@ describe('Geodesic Math', () => {
     expect(estimateWalkMinutes(750)).toBe(10);
   });
 });
+
+// Test: getRemainingDistanceToStop accuracy
