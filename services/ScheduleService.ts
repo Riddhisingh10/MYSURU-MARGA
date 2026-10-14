@@ -37,3 +37,5 @@ export class ScheduleService implements IScheduleService {
 }
 
 export const scheduleService = new ScheduleService();
+
+// Schedule rollover handling for late night departures
