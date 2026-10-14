@@ -146,3 +146,6 @@ npm start
 ## 8. License
 
 Distributed under the MIT License. Built with ❤️ for the citizens and visitors of Mysuru, Karnataka.
+
+
+<!-- Verified for production release on GitHub -->
