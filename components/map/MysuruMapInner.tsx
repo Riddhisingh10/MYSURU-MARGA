@@ -429,3 +429,5 @@ export const MysuruMapInner: React.FC<MysuruMapInnerProps> = ({
 };
 
 // Smooth leaflet panTo animation duration: 500ms
+
+// Marker z-index layering: active bus > stops > routes
