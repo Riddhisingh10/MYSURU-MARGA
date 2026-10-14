@@ -30,3 +30,5 @@
 - docs: document clean energy and electric bus fleet integration
 
 - docs: document air-conditioned Volvo city service timetable distinction
+
+- docs: document night service transit availability from railway station
