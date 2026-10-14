@@ -162,3 +162,6 @@ export function getRemainingDistanceToStop(
 
   return distance;
 }
+
+/** Earth radius in kilometers */
+export const EARTH_RADIUS_KM = 6371;
