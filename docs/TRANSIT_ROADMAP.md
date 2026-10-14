@@ -14,3 +14,5 @@
 - docs: document Chamundi Hill pilgrimage transit surge schedules
 
 - docs: document Dasara festival seasonal route scheduling guidelines
+
+- docs: document wheelchair accessible bus shelter indicators
