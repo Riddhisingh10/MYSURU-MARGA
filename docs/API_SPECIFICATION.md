@@ -19,3 +19,16 @@
 
 ### 3. `IJourneyPlannerService`
 - `findJourneys(query: JourneySearchQuery): Promise<JourneyOption[]>`
+
+
+### WebSocket Event Schema: `bus:location:update`
+```typescript
+interface BusLocationEvent {
+  busId: string;
+  lat: number;
+  lng: number;
+  speed: number;
+  heading: number;
+  status: string;
+}
+```
