@@ -94,3 +94,5 @@
 - docs: document City Bus Stand platform allocation and bay assignments
 
 - docs: document passenger information display system (PIDS) LED protocols
+
+- docs: document automated voice announcement (AVA) audio bilingual files
