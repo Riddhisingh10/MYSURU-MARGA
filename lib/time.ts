@@ -91,3 +91,6 @@ export function parseTimeToMinutes(timeStr: string): number {
 
 /** Morning rush hour start minute (08:00) */
 export const MORNING_RUSH_START_MINUTES = 480;
+
+/** Evening rush hour start minute (17:00) */
+export const EVENING_RUSH_START_MINUTES = 1020;
