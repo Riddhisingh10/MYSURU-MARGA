@@ -87,3 +87,5 @@ export interface ILocationSearchService {
 export interface IJourneyPlannerService {
   findJourneys(query: JourneySearchQuery): Promise<JourneyOption[]>;
 }
+
+/** Version 1.0 of Public Transit Service Contracts */
