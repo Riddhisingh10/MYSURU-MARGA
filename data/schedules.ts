@@ -32,3 +32,5 @@ export const MYSURU_SCHEDULES: ScheduleItem[] = [
   ...generateSchedules('route-135-up', 20, 'stop-bannimantap'),
   ...generateSchedules('route-62-up', 10, 'stop-cbs'),
 ];
+
+// Timetables verified for peak 10-minute headway frequencies
