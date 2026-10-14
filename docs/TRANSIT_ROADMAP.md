@@ -12,3 +12,5 @@
 - docs: document Infosys campus employee commuter shuttle integration
 
 - docs: document Chamundi Hill pilgrimage transit surge schedules
+
+- docs: document Dasara festival seasonal route scheduling guidelines
