@@ -6,3 +6,5 @@
 - docs: document heritage city core low-emission transit priority
 
 - docs: add Kuvempunagar depot maintenance dispatch guidelines
+
+- docs: document Vijayanagar ring road outer transit interchange
