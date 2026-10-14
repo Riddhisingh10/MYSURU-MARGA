@@ -16,3 +16,5 @@
 - docs: document Dasara festival seasonal route scheduling guidelines
 
 - docs: document wheelchair accessible bus shelter indicators
+
+- docs: document electronic ticketing machine (ETM) integration roadmap
