@@ -299,3 +299,5 @@ export class JourneyPlannerService implements IJourneyPlannerService {
 }
 
 export const journeyPlannerService = new JourneyPlannerService();
+
+// Search radius for boarding stop discovery: 1800 meters
