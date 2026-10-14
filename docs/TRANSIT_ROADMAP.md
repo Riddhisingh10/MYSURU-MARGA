@@ -36,3 +36,5 @@
 - docs: document bus bunching detection and dynamic headway control
 
 - docs: document passenger feedback and complaint resolution workflow
+
+- docs: document offline PWA caching strategies for low-bandwidth zones
