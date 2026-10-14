@@ -88,3 +88,5 @@
 - docs: document Tavarekatte hill steps passenger boarding amenities
 
 - docs: document outer ring road rapid transit (BRT) feasibility study
+
+- docs: document suburban bus stand inter-district transfer ergonomics
