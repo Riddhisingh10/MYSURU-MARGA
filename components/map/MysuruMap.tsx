@@ -37,3 +37,5 @@ const DynamicMap = dynamic(
 export const MysuruMap: React.FC<MysuruMapProps> = (props) => {
   return <DynamicMap {...props} />;
 };
+
+// SSR dynamic loading skeleton placeholder
