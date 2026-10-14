@@ -90,3 +90,5 @@
 - docs: document outer ring road rapid transit (BRT) feasibility study
 
 - docs: document suburban bus stand inter-district transfer ergonomics
+
+- docs: document City Bus Stand platform allocation and bay assignments
