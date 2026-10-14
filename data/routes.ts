@@ -273,3 +273,5 @@ export const MYSURU_ROUTES: BusRoute[] = [
 // Route 10A connects central railway hub with Hebbal Electronics City
 
 // Route 135 provides north-south arterial bypass without transferring at CBS
+
+// Route 62 provides rapid frequency express service to Kuvempunagar
