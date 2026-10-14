@@ -378,3 +378,5 @@ export const LiveTrackingPanel: React.FC<LiveTrackingPanelProps> = ({
     </div>
   );
 };
+
+// Dynamic status banner: approaching vs in_transit vs at_stop
