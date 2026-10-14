@@ -60,3 +60,5 @@
 - docs: document Hebbal industrial employee shift-time feeder buses
 
 - docs: document Bannimantap torchlight parade annual transit routing
+
+- docs: document Bogadi 2nd stage residential extension transit lines
