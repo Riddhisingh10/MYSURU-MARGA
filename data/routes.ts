@@ -269,3 +269,5 @@ export const MYSURU_ROUTES: BusRoute[] = [
 // Route 201 serves university students and Saraswathipuram residential zone
 
 // Route 303 connects commercial heart with Vijayanagar residential extensions
+
+// Route 10A connects central railway hub with Hebbal Electronics City
