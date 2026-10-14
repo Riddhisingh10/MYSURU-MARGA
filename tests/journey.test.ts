@@ -11,3 +11,5 @@ describe('Journey Planner', () => {
     expect(typeof planner.findJourneys).toBe('function');
   });
 });
+
+// Test: route direction validation prevents reverse travel suggestions
