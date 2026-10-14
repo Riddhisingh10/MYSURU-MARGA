@@ -269,3 +269,5 @@ export class LocationSearchService implements ILocationSearchService {
 export const locationSearchService = new LocationSearchService();
 
 // Search query minimum length threshold: 2 characters
+
+// Bounding box for OpenStreetMap Nominatim queries: Mysuru Metropolitan Area
