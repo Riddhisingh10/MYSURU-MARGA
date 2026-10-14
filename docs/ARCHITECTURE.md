@@ -57,3 +57,8 @@ Mysuru Marga is built with a decoupled, service-oriented architecture designed t
 ## 3. Security & Telemetry Authentication
 - Mutual TLS (mTLS) for bus GPS devices.
 - HMAC-SHA256 request signatures for data integrity.
+
+
+## 4. Scalability & Latency Targets
+- End-to-end GPS update latency < 1.2s.
+- WebSocket fan-out capacity > 50,000 concurrent passengers.
