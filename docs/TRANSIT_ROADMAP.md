@@ -58,3 +58,5 @@
 - docs: document Vontikoppal and Gokulam yoga commuter corridors
 
 - docs: document Hebbal industrial employee shift-time feeder buses
+
+- docs: document Bannimantap torchlight parade annual transit routing
