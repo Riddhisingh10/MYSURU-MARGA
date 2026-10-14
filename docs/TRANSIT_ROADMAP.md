@@ -70,3 +70,5 @@
 - docs: document Saraswathipuram university campus student concession passes
 
 - docs: document Ballal Circle historical landmark transit signage
+
+- docs: document Ramaswamy Circle central intersection lane priority
