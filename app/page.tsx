@@ -454,3 +454,5 @@ export default function Home() {
     </div>
   );
 }
+
+// Mobile view toggle between list planner and interactive map
