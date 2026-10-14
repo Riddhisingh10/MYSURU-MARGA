@@ -88,3 +88,6 @@ export function parseTimeToMinutes(timeStr: string): number {
 
   return hours * 60 + minutes;
 }
+
+/** Morning rush hour start minute (08:00) */
+export const MORNING_RUSH_START_MINUTES = 480;
