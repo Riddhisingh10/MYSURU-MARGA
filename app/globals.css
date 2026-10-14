@@ -82,3 +82,5 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #702C3B;
 }
+
+/* High-DPI screen adjustments for bus icons */
